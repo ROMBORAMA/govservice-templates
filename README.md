@@ -20,6 +20,8 @@ This repo contains the JSON file exports of online services developed on the Gov
 
 The JSON samples provided are **form JSON exports and not process exports.**
 
+Where forms integrate with a payment connector, I have removed this section for the export so that you can configure your own.
+
 In some instances where a PDF is required of the completed form, a printable integration JSON export is also included with the form JSON.
 
 
