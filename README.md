@@ -38,15 +38,21 @@ In some instances where a PDF is required of the completed form, a printable int
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Any contributions you make are greatly appreciated!
+Want to share your work? Any contributions you make are greatly appreciated!
 
-If you have a suggestion that would make this better or have your own online services to share, please get in touch.
+I'm happy to add contributors to this repo to allow people to add their own services - just get in touch.
 
-Oh, and leave a star if you can! 😄
+Let me know if you have a suggestion that would make this better or have your own online services to share.
 
+Oh, and leave a star and watch this repo for updates! 😄
+
+<!-- CONTACT -->
+### Current Contributors
+
+* Adrian Poole - [adrian.poole.dev@gmail.com][contact-email]<br />
+[LinkedIn][linkedin-profile] | [GitHub][github-profile]
 
 <p>&nbsp;</p>
-
 
 
 
@@ -58,13 +64,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p>&nbsp;</p>
 
 
-
-
-<!-- CONTACT -->
-## Contact
-
-* Adrian Poole - [adrian.poole.dev@gmail.com][contact-email]<br />
-[LinkedIn][linkedin-profile] | [GitHub][github-profile]
 
 ---
 [Back to top][back-to-top]
