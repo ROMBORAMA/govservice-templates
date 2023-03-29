@@ -4,7 +4,7 @@
 
 # GovService templates
 
-Hi GovService buddies! 👋
+Hey GovService buddies! 👋
 
 This repo contains the JSON file exports of online services developed on the GovService platform.
 
@@ -18,11 +18,15 @@ This repo contains the JSON file exports of online services developed on the Gov
 
 ### Usage
 
-The JSON samples provided are **form JSON exports and not process exports.**
+The JSON files in this repo contain a mixture of process and form level JSON files. Where not specified, please try importing the file as form JSON in the first instance. If this does not work, please try importing the file as a process.
 
 Where forms integrate with a payment connector, I have removed this section for the export so that you can configure your own.
 
-In some instances where a PDF is required of the completed form, a printable integration JSON export is also included with the form JSON.
+I have included form specific integrations where these were developed with the form, such as PDF printable integrations.
+
+#### Councillor casework specific
+
+Added on 29/03/2023, the `Councillor casework` JSON files include the bulk integration import, as well as the process import. To ensure that this is imported correctly, please refer to the user guide included with the Councillor casework JSON files.
 
 
 ### Prerequisites
